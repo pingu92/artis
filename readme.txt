@@ -1,0 +1,1 @@
+Artis, latin for Commerce, is a MOD to upgrade the Traders in Stonehearth with new Furnitures, Stockpiles, Trader Shops, Missions and a lot more things.

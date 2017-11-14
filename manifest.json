@@ -1,0 +1,18 @@
+{
+"info" : {
+   "name" : "artis",
+   "version" : 3
+  },
+
+  "default_locale" : "en",
+
+  "aliases" : {
+
+  },
+  "mixintos" : {
+
+  },
+  "controllers" : {
+     
+  }
+}
