@@ -10,7 +10,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(wooden_window_frame.qb)"
+               "file(shop_window_herbalist_small.qb)"
             ]
          }
       },

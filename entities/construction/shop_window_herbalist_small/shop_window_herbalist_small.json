@@ -1,14 +1,14 @@
 {
    "type": "entity",
-   "mixins": "file(wooden_window_frame_ghost.json)",
+   "mixins": "file(shop_window_herbalist_small_ghost.json)",
    "components": {
      "stonehearth:storage": {
         "type": "crate",
         "capacity": 60
      },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(wooden_window_frame_iconic.json)",
-         "ghost_form": "file(wooden_window_frame_ghost.json)",
+         "iconic_form": "file(shop_window_herbalist_small_iconic.json)",
+         "ghost_form": "file(shop_window_herbalist_small_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       }
@@ -23,6 +23,12 @@
             "shopkeeper_level": 1,
             "shopkeeper_type": "caravan"
          }
+      },
+      "stonehearth:appeal": {
+         "appeal": 20
+      },
+      "stonehearth:item_quality": {
+         "variable_quality": true
       }
    }
 }

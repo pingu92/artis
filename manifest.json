@@ -7,12 +7,12 @@
   "default_locale" : "en",
 
   "aliases" : {
-
+    "construction:shop_window_herbalist_small": "file(entities/construction/shop_window_herbalist_small)"
   },
   "mixintos" : {
 
   },
   "controllers" : {
-     
+
   }
 }
