@@ -10,7 +10,31 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(../shop_window_small/shop_window_small.qb)"
+               "file(../shop_window_small/shop_window_small.qb)",
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(shop_floor_out_items_h01.qb)",
+  									 "file(shop_floor_out_items_h02.qb)",
+                     "file(shop_floor_out_items_h03.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(shop_floor_in_items_h01.qb)",
+  									 "file(shop_floor_in_items_h02.qb)",
+                     "file(shop_floor_in_items_h03.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(shop_bench_items_h01.qb)",
+  									 "file(shop_bench_items_h02.qb)",
+                     "file(shop_bench_items_h03.qb)"
+  								]
+  						 }
             ]
          }
       },
