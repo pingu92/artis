@@ -20,8 +20,7 @@
          "margin": {
             "left": 0,
             "right": 0,
-            "top": 1,
-            "bottom": 1
+            "top": 1
          },
          "bounds": {
             "min": { "x": -1, "y": 0 },
@@ -31,8 +30,8 @@
       "stonehearth:portal": {
          "cutter": [
             {
-               "min": { "x": -1, "y": 0 },
-               "max": { "x": 1, "y": 2 }
+               "min": { "x": -2, "y": 0 },
+               "max": { "x": 2, "y": 4 }
             }
          ]
       }
