@@ -4,6 +4,11 @@
 	},
 
 	"entities" : {
-
+		"construction" : {
+			"shop_window_herbalist_small_ghost" : {
+				"display_name" : "Small Herbalist vetrine",
+				"description" : "A small vetrine for the Herbalist Workshop with 15 units of storage."
+			}
+		}
 	}
 }

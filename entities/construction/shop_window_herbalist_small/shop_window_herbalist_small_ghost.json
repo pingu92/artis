@@ -10,7 +10,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(shop_window_herbalist_small.qb)"
+               "file(../shop_window_small/shop_window_small.qb)"
             ]
          }
       },
@@ -30,8 +30,8 @@
       "stonehearth:portal": {
          "cutter": [
             {
-               "min": { "x": -2, "y": 0 },
-               "max": { "x": 2, "y": 4 }
+               "min": { "x": -1, "y": 0 },
+               "max": { "x": 1, "y": 4 }
             }
          ]
       }

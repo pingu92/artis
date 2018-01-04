@@ -4,13 +4,21 @@
    "components": {
      "stonehearth:storage": {
         "type": "crate",
-        "capacity": 60
+        "capacity": 15
      },
       "stonehearth:entity_forms": {
          "iconic_form": "file(shop_window_herbalist_small_iconic.json)",
          "ghost_form": "file(shop_window_herbalist_small_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
+      },
+      "region_collision_shape": {
+         "region": [
+            {
+               "min": { "x": -1.7, "y": 0, "z": -2 },
+               "max": { "x": 1.7, "y": 4.5, "z": 1 }
+            }
+         ]
       }
    },
    "entity_data": {
@@ -25,7 +33,7 @@
          }
       },
       "stonehearth:appeal": {
-         "appeal": 20
+         "appeal": 12
       },
       "stonehearth:item_quality": {
          "variable_quality": true
