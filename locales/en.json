@@ -15,7 +15,7 @@
 
 	"entities" : {
 		"construction" : {
-			"shop_window_herbalist_small_ghost" : {
+			"h_vitrine_s_01_ghost" : {
 				"display_name" : "Small vitrine with box",
 				"description" : "Storages up to 15 units."
 			}
