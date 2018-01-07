@@ -64,9 +64,9 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(artis:entities.construction.shop_window_herbalist_small_ghost.display_name)",
-         "description": "i18n(artis:entities.construction.shop_window_herbalist_small_ghost.description)",
-         "icon": "file(shop_window_herbalist_small.png)",
+         "display_name": "i18n(artis:entities.construction.h_vitrine_s_01_ghost.display_name)",
+         "description": "i18n(artis:entities.construction.h_vitrine_s_01_ghost.description)",
+         "icon": "file(h_vitrine_s_01.png)",
          "category": "window",
          "material_tags": "wood portal crafted window stockpile_portal"
       }

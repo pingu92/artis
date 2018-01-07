@@ -1,6 +1,16 @@
 {
 	"jobs" : {
+		"herbalist": {
+			"recipes" : {
+				"storage_name" : "Workshop Decorations",
 
+				"h_vitrine_s_01_recipe" : {
+		      "recipe_name" : "Small herbalist vitrine",
+		      "description" : "A decorative storage window for the herbalist workshop. Contains up to 15 units.",
+		      "flavor" : "Nice for every little shop."
+		    }
+			}
+		}
 	},
 
 	"entities" : {

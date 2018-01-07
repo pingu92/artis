@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(shop_window_herbalist_small_iconic.qb)"
+               "file(h_vitrine_s_01_iconic.qb)"
             ]
          }
       },

@@ -7,10 +7,10 @@
   "default_locale" : "en",
 
   "aliases" : {
-    "construction:shop_window_herbalist_small": "file(entities/construction/shop_window_herbalist_small)"
+    "construction:h_vitrine_s_01": "file(entities/construction/h_vitrine_s_01)"
   },
   "mixintos" : {
-
+    "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
   },
   "controllers" : {
 
