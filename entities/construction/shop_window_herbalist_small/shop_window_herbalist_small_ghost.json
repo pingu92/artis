@@ -11,28 +11,30 @@
          "default": {
             "models": [
                "file(../shop_window_small/shop_window_small.qb)",
+               "file(../shop_window_small/shop_outside_01.qb)",
                {
   								"type": "one_of",
   								"items": [
-  									 "file(shop_floor_out_items_h01.qb)",
-  									 "file(shop_floor_out_items_h02.qb)",
-                     "file(shop_floor_out_items_h03.qb)"
+  									 "file(sw_s_window_h01.qb)",
+  									 "file(sw_s_window_h02.qb)",
+                     "file(sw_s_window_h03.qb)"
   								]
   						 },
                {
   								"type": "one_of",
   								"items": [
-  									 "file(shop_floor_in_items_h01.qb)",
-  									 "file(shop_floor_in_items_h02.qb)",
-                     "file(shop_floor_in_items_h03.qb)"
+  									 "file(sw_s_outside_h01.qb)",
+  									 "file(sw_s_outside_h02.qb)",
+                     "file(sw_s_outside_h03.qb)",
+                     "file(sw_s_outside_h04.qb)"
   								]
   						 },
                {
   								"type": "one_of",
   								"items": [
-  									 "file(shop_bench_items_h01.qb)",
-  									 "file(shop_bench_items_h02.qb)",
-                     "file(shop_bench_items_h03.qb)"
+  									 "file(sw_s_inside_h01.qb)",
+  									 "file(sw_s_inside_h02.qb)",
+                     "file(sw_s_inside_h03.qb)"
   								]
   						 }
             ]
