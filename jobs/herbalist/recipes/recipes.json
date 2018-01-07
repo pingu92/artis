@@ -1,9 +1,9 @@
 {
    "craftable_recipes" : {
 
-     "storage" : {
+     "shop" : {
         "ordinal": 5,
-        "name": "i18n(homesweethome:jobs.herbalist.recipes.storage_name)",
+        "name": "i18n(artis:jobs.herbalist.recipes.shop_name)",
         "recipes" : {
           "herbalist_vitrine_small_01" : {
              "recipe" : "file(h_vitrine_s_01_recipe.json)"

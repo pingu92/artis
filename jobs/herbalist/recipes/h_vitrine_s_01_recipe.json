@@ -4,7 +4,7 @@
 	"recipe_name" : "i18n(artis:jobs.herbalist.recipes.h_vitrine_s_01_recipe.recipe_name)",
 	"description" : "i18n(artis:jobs.herbalist.recipes.h_vitrine_s_01_recipe.description)",
 	"flavor" : "i18n(artis:jobs.herbalist.recipes.h_vitrine_s_01_recipe.flavor)",
-	"portrait" : "/artis/entities/construction/h_vitrine_s_01_recipe/h_vitrine_s_01_recipe.png",
+	"portrait" : "/artis/entities/construction/h_vitrine_s_01/h_vitrine_s_01.png",
 	"level_requirement" : 2,
 	"workshop" : "stonehearth:herbalist:workbench",
 	"manual_unlock": false,
