@@ -17,7 +17,8 @@
   								"items": [
   									 "file(sw_s_window_h01.qb)",
   									 "file(sw_s_window_h02.qb)",
-                     "file(sw_s_window_h03.qb)"
+                     "file(sw_s_window_h03.qb)",
+                     "file(sw_s_window_h04.qb)"
   								]
   						 },
                {
@@ -26,7 +27,8 @@
   									 "file(sw_s_outside_h01.qb)",
   									 "file(sw_s_outside_h02.qb)",
                      "file(sw_s_outside_h03.qb)",
-                     "file(sw_s_outside_h04.qb)"
+                     "file(sw_s_outside_h04.qb)",
+                     "file(sw_s_outside_h05.qb)"
   								]
   						 },
                {
@@ -34,7 +36,10 @@
   								"items": [
   									 "file(sw_s_inside_h01.qb)",
   									 "file(sw_s_inside_h02.qb)",
-                     "file(sw_s_inside_h03.qb)"
+                     "file(sw_s_inside_h03.qb)",
+                     "file(sw_s_inside_h04.qb)",
+                     "file(sw_s_inside_h05.qb)",
+                     "file(sw_s_inside_h06.qb)"
   								]
   						 }
             ]
