@@ -1,0 +1,26 @@
+{
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(artis:jobs.herbalist.recipes.h_vitrine_s_02_recipe.recipe_name)",
+	"description" : "i18n(artis:jobs.herbalist.recipes.h_vitrine_s_02_recipe.description)",
+	"flavor" : "i18n(artis:jobs.herbalist.recipes.h_vitrine_s_02_recipe.flavor)",
+	"portrait" : "/artis/entities/construction/h_vitrine_s_02/h_vitrine_s_02.png",
+	"level_requirement" : 2,
+	"workshop" : "stonehearth:herbalist:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"material": "wood resource",
+			"count": 2
+		},
+		{
+			"uri": "stonehearth:consumables:healing_tonic:small",
+		 	"count": 1
+		}
+	],
+	"produces" : [
+		{
+			"item" : "artis:construction:h_vitrine_s_02"
+		}
+	]
+}

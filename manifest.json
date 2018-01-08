@@ -7,7 +7,9 @@
   "default_locale" : "en",
 
   "aliases" : {
-    "construction:h_vitrine_s_01": "file(entities/construction/h_vitrine_s_01)"
+    "construction:h_vitrine_s_01": "file(entities/construction/h_vitrine_s_01)",
+    "construction:h_vitrine_s_02": "file(entities/construction/h_vitrine_s_02)",
+    "construction:h_vitrine_s_03": "file(entities/construction/h_vitrine_s_03)"
   },
   "mixintos" : {
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
