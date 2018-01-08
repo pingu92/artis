@@ -1,14 +1,14 @@
 {
    "type": "entity",
-   "mixins": "file(h_vitrine_s_02_ghost.json)",
+   "mixins": "file(h_vitrine_s_03_ghost.json)",
    "components": {
      "stonehearth:storage": {
         "type": "crate",
         "capacity": 15
      },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(h_vitrine_s_02_iconic.json)",
-         "ghost_form": "file(h_vitrine_s_02_ghost.json)",
+         "iconic_form": "file(h_vitrine_s_03_iconic.json)",
+         "ghost_form": "file(h_vitrine_s_03_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       },
