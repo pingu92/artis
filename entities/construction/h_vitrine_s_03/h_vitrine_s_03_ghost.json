@@ -2,70 +2,41 @@
    "mixins": "stonehearth:mixins:placed_object",
    "type": "entity",
    "components": {
-      "mob": {
-         "align_to_grid": [
-            "x"
-         ]
-      },
-      "model_variants": {
-         "default": {
-            "models": [
-               "file(../shop_window_small/shop_window_small.qb)",
-               "file(../shop_window_small/shop_outside_03.qb)",
-               {
-  								"type": "one_of",
-  								"items": [
-  									 "file(../h_vitrine_s_01/sw_s_window_h01.qb)",
-  									 "file(../h_vitrine_s_01/sw_s_window_h02.qb)",
-                     "file(../h_vitrine_s_01/sw_s_window_h03.qb)",
-                     "file(../h_vitrine_s_01/sw_s_window_h04.qb)"
-  								]
-  						 },
-               {
-  								"type": "one_of",
-  								"items": [
-  									 "file(sw_s_outside_h01.qb)",
-  									 "file(sw_s_outside_h02.qb)",
-                     "file(sw_s_outside_h03.qb)",
-                     "file(sw_s_outside_h04.qb)",
-                     "file(sw_s_outside_h05.qb)"
-  								]
-  						 },
-               {
-  								"type": "one_of",
-  								"items": [
-  									 "file(../h_vitrine_s_01/sw_s_inside_h01.qb)",
-  									 "file(../h_vitrine_s_01/sw_s_inside_h02.qb)",
-                     "file(../h_vitrine_s_01/sw_s_inside_h03.qb)",
-                     "file(../h_vitrine_s_01/sw_s_inside_h04.qb)",
-                     "file(../h_vitrine_s_01/sw_s_inside_h05.qb)",
-                     "file(../h_vitrine_s_01/sw_s_inside_h06.qb)"
-  								]
-  						 }
-            ]
-         }
-      },
-      "stonehearth:fixture": {
-        "valign": "bottom",
-         "cursor": "stonehearth:cursors:create_window",
-         "margin": {
-            "left": 0,
-            "right": 0,
-            "top": 1
-         },
-         "bounds": {
-            "min": { "x": -1, "y": 0 },
-            "max": { "x": 1, "y": 2 }
-         }
-      },
-      "stonehearth:portal": {
-         "cutter": [
-            {
-               "min": { "x": -1, "y": 0 },
-               "max": { "x": 1, "y": 4 }
-            }
-         ]
-      }
+     "mob": {
+        "align_to_grid": [
+           "x"
+        ]
+     },
+     "model_variants": {
+        "default": {
+           "models": [
+              "file(../shop_window_small/shop_window_small.qb)",
+              "file(../shop_window_small/shop_outside_03.qb)",
+              "file(../h_vitrine_s_01/shop_window_closed.qb)"
+           ]
+        }
+     },
+     "stonehearth:fixture": {
+       "valign": "bottom",
+        "cursor": "stonehearth:cursors:create_window",
+        "margin": {
+           "left": 0,
+           "right": 0,
+           "top": 1
+        },
+        "bounds": {
+           "min": { "x": -1, "y": 0 },
+           "max": { "x": 1, "y": 2 }
+        }
+     },
+     "stonehearth:portal": {
+        "cutter": [
+           {
+              "min": { "x": -1, "y": 0 },
+              "max": { "x": 1, "y": 4 }
+           }
+        ]
+     }
    },
    "entity_data": {
       "stonehearth:catalog": {

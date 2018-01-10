@@ -7,8 +7,8 @@
         "capacity": 15
      },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(h_vitrine_s_03_iconic.json)",
-         "ghost_form": "file(h_vitrine_s_03_ghost.json)",
+         "iconic_form": "file(h_vitrine_s_01_iconic.json)",
+         "ghost_form": "file(h_vitrine_s_01_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       },
@@ -19,9 +19,80 @@
                "max": { "x": 1.7, "y": 4.5, "z": 1.5 }
             }
          ]
+      },
+      "mob": {
+         "align_to_grid": [
+            "x"
+         ]
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(../shop_window_small/shop_window_small.qb)",
+               "file(../shop_window_small/shop_outside_03.qb)",
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(../h_vitrine_s_01/sw_s_window_h01.qb)",
+  									 "file(../h_vitrine_s_01/sw_s_window_h02.qb)",
+                     "file(../h_vitrine_s_01/sw_s_window_h03.qb)",
+                     "file(../h_vitrine_s_01/sw_s_window_h04.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(sw_s_outside_h01.qb)",
+  									 "file(sw_s_outside_h02.qb)",
+                     "file(sw_s_outside_h03.qb)",
+                     "file(sw_s_outside_h04.qb)",
+                     "file(sw_s_outside_h05.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(../h_vitrine_s_01/sw_s_inside_h01.qb)",
+  									 "file(../h_vitrine_s_01/sw_s_inside_h02.qb)",
+                     "file(../h_vitrine_s_01/sw_s_inside_h03.qb)",
+                     "file(../h_vitrine_s_01/sw_s_inside_h04.qb)",
+                     "file(../h_vitrine_s_01/sw_s_inside_h05.qb)",
+                     "file(../h_vitrine_s_01/sw_s_inside_h06.qb)"
+  								]
+  						 }
+            ]
+         }
+      },
+      "stonehearth:fixture": {
+        "valign": "bottom",
+         "cursor": "stonehearth:cursors:create_window",
+         "margin": {
+            "left": 0,
+            "right": 0,
+            "top": 1
+         },
+         "bounds": {
+            "min": { "x": -1, "y": 0 },
+            "max": { "x": 1, "y": 2 }
+         }
+      },
+      "stonehearth:portal": {
+         "cutter": [
+            {
+               "min": { "x": -1, "y": 0 },
+               "max": { "x": 1, "y": 4 }
+            }
+         ]
       }
    },
    "entity_data": {
+     "stonehearth:catalog": {
+      "display_name": "i18n(artis:entities.construction.h_vitrine_s_03_ghost.display_name)",
+      "description": "i18n(artis:entities.construction.h_vitrine_s_03_ghost.description)",
+      "icon": "file(h_vitrine_s_02.png)",
+      "category": "window",
+      "material_tags": "wood portal crafted window stockpile_portal"
+      },
       "stonehearth:net_worth": {
          "value_in_gold": 20,
          "rarity": "common",
