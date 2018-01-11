@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(h_vitrine_s_03_ghost.json)",
+   "mixins": "stonehearth:mixins:placed_object",
    "components": {
      "stonehearth:storage": {
         "type": "crate",
@@ -15,8 +15,8 @@
       "region_collision_shape": {
          "region": [
             {
-               "min": { "x": -1.7, "y": 0, "z": -2 },
-               "max": { "x": 1.7, "y": 4.5, "z": 1.5 }
+               "min": { "x": -1.7, "y": 0, "z": -2.5 },
+               "max": { "x": 1.7, "y": 4.5, "z": 1 }
             }
          ]
       },
@@ -89,7 +89,7 @@
      "stonehearth:catalog": {
       "display_name": "i18n(artis:entities.construction.h_vitrine_s_03_ghost.display_name)",
       "description": "i18n(artis:entities.construction.h_vitrine_s_03_ghost.description)",
-      "icon": "file(h_vitrine_s_02.png)",
+      "icon": "file(h_vitrine_s_03.png)",
       "category": "window",
       "material_tags": "wood portal crafted window stockpile_portal"
       },
