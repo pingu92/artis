@@ -10,8 +10,8 @@
      "model_variants": {
         "default": {
            "models": [
-              "file(../shop_window_small/shop_window_small.qb)",
-              "file(../shop_window_small/shop_outside_03.qb)",
+              "file(../_shop_window_small/shop_window_small.qb)",
+              "file(../_shop_window_small/shop_outside_03.qb)",
               "file(../h_vitrine_s_01/shop_window_closed.qb)"
            ]
         }
