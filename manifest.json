@@ -9,7 +9,8 @@
   "aliases" : {
     "construction:h_vitrine_s_01": "file(entities/construction/h_vitrine_s_01)",
     "construction:h_vitrine_s_02": "file(entities/construction/h_vitrine_s_02)",
-    "construction:h_vitrine_s_03": "file(entities/construction/h_vitrine_s_03)"
+    "construction:h_vitrine_s_03": "file(entities/construction/h_vitrine_s_03)",
+    "construction:output_vitrine_small:wood" : "file(entities/construction/output_vitirne_small_wood)"
   },
   "mixintos" : {
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",

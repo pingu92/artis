@@ -1,0 +1,16 @@
+{
+   "type" : "rig",
+   "skeleton": {
+      "ATTITEM00": [0.0,-0.0,0.0],
+      "ATTITEM01": [10.0,-0.0,0.0],
+      "ATTITEM02": [20.0,-0.0,0.0],
+      "ATTITEM03": [30.0,-0.0,0.0],
+      "ATTITEM04": [40.0,-0.0,0.0],
+      "ATTITEM05": [50.0,-0.0,0.0],
+      "ATTOVERCOG": [15.0,7.0,44.25],
+      "outputbox": [15.0,7.5,0.0],
+      "root": [15.0,5.0,0.0]
+   },
+   "animation_root" : "file(animations)",
+   "effects_root": "file(effects)"
+}

@@ -25,6 +25,10 @@
 
 	"entities" : {
 		"construction" : {
+			"output_vitirne_small_wood_ghost" : {
+				"display_name" : "Small vitrine with box",
+				"description" : "Storages up to 15 units."
+			},
 			"h_vitrine_s_01_ghost" : {
 				"display_name" : "Small vitrine with box",
 				"description" : "Storages up to 15 units."

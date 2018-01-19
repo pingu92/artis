@@ -1,0 +1,55 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "type": "entity",
+   "components": {
+      "mob": {
+         "align_to_grid": [
+            "x"
+         ]
+      },
+
+      "render_info": {
+         "scale": 0.1,
+         "animation_table": "file(/data/rigs/entities/containers/output_vitrine_small/output_vitrine_small.json)"
+      },
+
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(../_shop_window_small/shop_window_small.qb)",
+               "file(../_shop_window_small/shop_outside_01.qb)"
+            ]
+         }
+      },
+      "stonehearth:fixture": {
+        "valign": "bottom",
+         "cursor": "stonehearth:cursors:create_window",
+         "margin": {
+            "left": 0,
+            "right": 0,
+            "top": 1
+         },
+         "bounds": {
+            "min": { "x": -1, "y": 0 },
+            "max": { "x": 1, "y": 2 }
+         }
+      },
+      "stonehearth:portal": {
+         "cutter": [
+            {
+               "min": { "x": -1, "y": 0 },
+               "max": { "x": 1, "y": 4 }
+            }
+         ]
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(artis:entities.construction.output_vitirne_small_wood_ghost.display_name)",
+         "description": "i18n(artis:entities.construction.output_vitirne_small_wood_ghost.description)",
+         "icon": "file(output_vitirne_small_wood.png)",
+         "category": "window",
+         "material_tags": "wood portal crafted window stockpile_portal"
+      }
+   }
+}
