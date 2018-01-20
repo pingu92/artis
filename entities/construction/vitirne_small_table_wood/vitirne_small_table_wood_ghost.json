@@ -16,8 +16,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(../_shop_window_small/shop_window_small.qb)",
-               "file(../_shop_window_small/shop_outside_02.qb)"
+               "file(vitrine_small_table_wood.qb)"
             ]
          }
       },

@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(h_vitrine_s_01_iconic.qb)"
+               "file(vitrine_small_table_wood_iconic.qb)"
             ]
          }
       },
