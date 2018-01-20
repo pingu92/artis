@@ -1,11 +1,11 @@
 {
    "type": "entity",
-   "mixins": "file(vitirne_small_table_wood_ghost.json)",
+   "mixins": "file(vitrine_small_table_wood_ghost.json)",
    "components": {
 
       "stonehearth:entity_forms": {
-         "iconic_form": "file(vitirne_small_table_wood_iconic.json)",
-         "ghost_form": "file(vitirne_small_table_wood_ghost.json)",
+         "iconic_form": "file(vitrine_small_table_wood_iconic.json)",
+         "ghost_form": "file(vitrine_small_table_wood_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       },
