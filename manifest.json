@@ -7,7 +7,8 @@
   "default_locale" : "en",
 
   "aliases" : {
-    "construction:vitrine_small_table:wood" : "file(entities/construction/vitrine_small_table_wood)"
+    "construction:vitrine_small_table:wood" : "file(entities/construction/vitrine_small_table_wood)",
+    "construction:vitrine_small_plate:wood" : "file(entities/construction/vitrine_small_plate_wood)"
   },
   "mixintos" : {
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",

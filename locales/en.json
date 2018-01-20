@@ -4,6 +4,11 @@
 			"recipes" : {
 				"shop_name" : "Workshop Decorations",
 
+				"vitrine_small_plate_wood_recipe" : {
+		      "recipe_name" : "Small vitrine with plate",
+		      "description" : "A decorative storage window for workshops. Contains up to 6 units.",
+		      "flavor" : "Nice for every little shop."
+		    },
 				"vitrine_small_table_wood_recipe" : {
 		      "recipe_name" : "Small vitrine with table",
 		      "description" : "A decorative storage window for workshops. Contains up to 6 units.",
@@ -15,6 +20,10 @@
 
 	"entities" : {
 		"construction" : {
+			"vitrine_small_plate_wood_ghost" : {
+				"display_name" : "Small vitrine with plate",
+				"description" : "Storages up to 6 units."
+			},
 			"vitrine_small_table_wood_ghost" : {
 				"display_name" : "Small vitrine with table",
 				"description" : "Storages up to 6 units."
