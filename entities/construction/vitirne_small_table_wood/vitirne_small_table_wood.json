@@ -1,11 +1,11 @@
 {
    "type": "entity",
-   "mixins": "file(output_vitirne_small_wood_ghost.json)",
+   "mixins": "file(vitirne_small_table_wood_ghost.json)",
    "components": {
 
       "stonehearth:entity_forms": {
-         "iconic_form": "file(output_vitirne_small_wood_iconic.json)",
-         "ghost_form": "file(output_vitirne_small_wood_ghost.json)",
+         "iconic_form": "file(vitirne_small_table_wood_iconic.json)",
+         "ghost_form": "file(vitirne_small_table_wood_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       },
@@ -27,7 +27,7 @@
       },
 
       "effect_list": {
-         "default": "file(/data/rigs/entities/containers/output_vitrine_small/effects/idle.json)"
+         "default": "file(/data/rigs/entities/containers/vitrine_small_table/effects/idle.json)"
       }
    },
    "entity_data": {
