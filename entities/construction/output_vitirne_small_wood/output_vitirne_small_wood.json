@@ -20,9 +20,10 @@
       },
 
       "stonehearth:storage": {
-        "type": "output_crate",
+        "type": "crate",
         "capacity": 6,
-        "render_contents": true
+        "render_contents": true,
+        "filter_list": "stonehearth:ui:stockpile:filters"
       },
 
       "effect_list": {
