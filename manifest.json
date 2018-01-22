@@ -11,7 +11,9 @@
     "construction:vitrine_small_plate:wood" : "file(entities/construction/vitrine_small_plate_wood)",
     "construction:vitrine_small_table:wood" : "file(entities/construction/vitrine_small_table_wood)",
 
-    "construction:vitrine_medium_plate:wood" : "file(entities/construction/vitrine_medium_plate_wood)"
+    "construction:vitrine_medium_box:wood" : "file(entities/construction/vitrine_medium_box_wood)",
+    "construction:vitrine_medium_plate:wood" : "file(entities/construction/vitrine_medium_plate_wood)",
+    "construction:vitrine_medium_table:wood" : "file(entities/construction/vitrine_medium_table_wood)"
   },
   "mixintos" : {
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",

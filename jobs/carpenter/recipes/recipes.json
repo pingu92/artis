@@ -15,8 +15,14 @@
           "vitrine_small_table_wood" : {
              "recipe" : "file(vitrine_small_table_wood.json)"
           },
+          "vitrine_medium_box_wood" : {
+             "recipe" : "file(vitrine_medium_box_wood.json)"
+          },
           "vitrine_medium_plate_wood" : {
              "recipe" : "file(vitrine_medium_plate_wood.json)"
+          },
+          "vitrine_medium_table_wood" : {
+             "recipe" : "file(vitrine_medium_table_wood.json)"
           }
         }
      }
