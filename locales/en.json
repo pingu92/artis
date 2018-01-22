@@ -23,17 +23,17 @@
 				"vitrine_medium_box_wood_recipe" : {
 		      "recipe_name" : "Medium vitrine with box",
 		      "description" : "A decorative storage window for workshops. Contains up to 12 units.",
-		      "flavor" : "Nice for every little shop."
+		      "flavor" : "A good crafter needs more space."
 		    },
 				"vitrine_medium_plate_wood_recipe" : {
 		      "recipe_name" : "Medium vitrine with plate",
 		      "description" : "A decorative storage window for workshops. Contains up to 12 units.",
-		      "flavor" : "Nice for every little shop."
+		      "flavor" : "A good crafter needs more space."
 		    },
 				"vitrine_medium_table_wood_recipe" : {
 		      "recipe_name" : "Medium vitrine with table",
 		      "description" : "A decorative storage window for workshops. Contains up to 12 units.",
-		      "flavor" : "Nice for every little shop."
+		      "flavor" : "A good crafter needs more space."
 		    }
 			}
 		}
