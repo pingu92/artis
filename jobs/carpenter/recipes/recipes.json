@@ -23,6 +23,9 @@
           },
           "vitrine_medium_table_wood" : {
              "recipe" : "file(vitrine_medium_table_wood.json)"
+          },
+          "vitrine_large_plate_wood" : {
+             "recipe" : "file(vitrine_large_plate_wood.json)"
           }
         }
      }
