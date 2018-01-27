@@ -8,7 +8,7 @@
       "ATTITEM04": [40.0,-0.0,0.0],
       "ATTITEM05": [50.0,-0.0,0.0],
       "ATTOVERCOG": [15.0,7.0,44.25],
-      "vitrinesmall": [0.0,0.0,0.0],
+      "vitrinesmall": [-2.0,0.0,-1.5],
       "root": [15.0,5.0,0.0]
    },
    "animation_root" : "file(animations)",
