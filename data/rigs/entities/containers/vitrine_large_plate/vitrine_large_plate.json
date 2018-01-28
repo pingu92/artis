@@ -3,7 +3,6 @@
    "skeleton": {
       "ATTITEM00": [0.0,-0.0,0.0],
       "ATTOVERCOG": [15.0,7.0,44.25],
-      "vitrinelarge": [0.0,0.0,0.0],
       "root": [15.0,5.0,0.0]
    },
    "animation_root" : "file(animations)",
