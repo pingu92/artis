@@ -36,8 +36,8 @@
       "stonehearth:portal": {
          "cutter": [
             {
-               "min": { "x": -3.5, "y": 0 },
-               "max": { "x": 3.5, "y": 4 }
+               "min": { "x": -3, "y": 0 },
+               "max": { "x": 3, "y": 4 }
             }
          ]
       }
