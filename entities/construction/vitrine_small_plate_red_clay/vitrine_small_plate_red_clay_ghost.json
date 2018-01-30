@@ -16,7 +16,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_small_plate_wood.qb)"
+               "file(vitrine_small_plate_red_clay.qb)"
             ]
          }
       },
@@ -44,11 +44,11 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(artis:entities.construction.vitrine_small_plate_wood_ghost.display_name)",
-         "description": "i18n(artis:entities.construction.vitrine_small_plate_wood_ghost.description)",
-         "icon": "file(vitrine_small_plate_wood.png)",
+         "display_name": "i18n(artis:entities.construction.vitrine_small_plate_red_clay_ghost.display_name)",
+         "description": "i18n(artis:entities.construction.vitrine_small_plate_red_clay_ghost.description)",
+         "icon": "file(vitrine_small_plate_red_clay.png)",
          "category": "window",
-         "material_tags": "CLAY portal crafted window stockpile_portal"
+         "material_tags": "clay portal crafted window stockpile_portal"
       }
    }
 }
