@@ -1,0 +1,22 @@
+{
+	"type" : "recipe",
+	"work_units" : 7,
+	"recipe_name" : "i18n(artis:jobs.carpenter.recipes.vitrine_large_box_wood_recipe.recipe_name)",
+	"description" : "i18n(artis:jobs.carpenter.recipes.vitrine_large_box_wood_recipe.description)",
+	"flavor" : "i18n(artis:jobs.carpenter.recipes.vitrine_large_box_wood_recipe.flavor)",
+	"portrait" : "/artis/entities/construction/vitrine_large_box_wood/vitrine_large_box_wood.png",
+	"level_requirement" : 4,
+	"workshop" : "stonehearth:carpenter:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"material": "wood resource",
+			"count": 8
+		}
+	],
+	"produces" : [
+		{
+			"item" : "artis:construction:vitrine_large_box:wood"
+		}
+	]
+}

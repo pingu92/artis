@@ -10,13 +10,13 @@
 
       "render_info": {
          "scale": 0.1,
-         "animation_table": "file(/data/rigs/entities/containers/vitrine_small_plate/vitrine_small_plate.json)"
+         "animation_table": "file(/data/rigs/entities/containers/vitrine_small_table/vitrine_small_table.json)"
       },
 
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_small_plate_red_clay.qb)"
+               "file(vitrine_small_table_stone.qb)"
             ]
          }
       },
@@ -36,19 +36,19 @@
       "stonehearth:portal": {
          "cutter": [
             {
-               "min": { "x": -1.4, "y": 0 },
-               "max": { "x": 1.4, "y": 4 }
+               "min": { "x": -1, "y": 0 },
+               "max": { "x": 1, "y": 4 }
             }
          ]
       }
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(artis:entities.construction.vitrine_small_plate_red_clay_ghost.display_name)",
-         "description": "i18n(artis:entities.construction.vitrine_small_plate_red_clay_ghost.description)",
-         "icon": "file(vitrine_small_plate_red_clay.png)",
+         "display_name": "i18n(artis:entities.construction.vitrine_small_table_stone_ghost.display_name)",
+         "description": "i18n(artis:entities.construction.vitrine_small_table_stone_ghost.description)",
+         "icon": "file(vitrine_small_table_stone.png)",
          "category": "window",
-         "material_tags": "clay portal crafted window stockpile_portal"
+         "material_tags": "wood portal crafted window stockpile_portal"
       }
    }
 }

@@ -52,6 +52,27 @@
 		      "flavor" : "The elite under the shop windows."
 		    }
 			}
+		},
+		"mason": {
+			"recipes" : {
+				"shop_name" : "Workshop Decorations",
+
+				"vitrine_small_box_stone_recipe" : {
+					"recipe_name" : "Small stone shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_plate_stone_recipe" : {
+		      "recipe_name" : "Small stone shop window with plate",
+		      "description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+		      "flavor" : "Nice for every little shop."
+		    },
+				"vitrine_small_table_stone_recipe" : {
+		      "recipe_name" : "Small stone shop window with table",
+		      "description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+		      "flavor" : "Nice for every little shop."
+		    }
+			}
 		}
 	},
 
@@ -66,6 +87,18 @@
 				"description" : "Storages up to 6 units."
 			},
 			"vitrine_small_table_wood_ghost" : {
+				"display_name" : "Small window with table",
+				"description" : "Storages up to 6 units."
+			},
+			"vitrine_small_box_stone_ghost" : {
+				"display_name" : "Small window with box",
+				"description" : "Storages up to 6 units."
+			},
+			"vitrine_small_plate_stone_ghost" : {
+				"display_name" : "Small window with plate",
+				"description" : "Storages up to 6 units."
+			},
+			"vitrine_small_table_stone_ghost" : {
 				"display_name" : "Small window with table",
 				"description" : "Storages up to 6 units."
 			},

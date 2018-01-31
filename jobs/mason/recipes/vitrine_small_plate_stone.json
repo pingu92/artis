@@ -1,0 +1,22 @@
+{
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(artis:jobs.mason.recipes.vitrine_small_plate_wood_recipe.recipe_name)",
+	"description" : "i18n(artis:jobs.mason.recipes.vitrine_small_plate_wood_recipe.description)",
+	"flavor" : "i18n(artis:jobs.mason.recipes.vitrine_small_plate_wood_recipe.flavor)",
+	"portrait" : "/artis/entities/construction/vitrine_small_plate_wood/vitrine_small_plate_wood.png",
+	"level_requirement" : 2,
+	"workshop" : "stonehearth:mason:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"material": "stone resource",
+			"count": 4
+		}
+	],
+	"produces" : [
+		{
+			"item" : "artis:construction:vitrine_small_plate:stone"
+		}
+	]
+}

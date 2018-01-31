@@ -1,11 +1,11 @@
 {
    "type": "entity",
-   "mixins": "file(vitrine_small_plate_red_clay_ghost.json)",
+   "mixins": "file(vitrine_small_plate_stone_ghost.json)",
    "components": {
 
       "stonehearth:entity_forms": {
-         "iconic_form": "file(vitrine_small_plate_red_clay_iconic.json)",
-         "ghost_form": "file(vitrine_small_plate_red_clay_ghost.json)",
+         "iconic_form": "file(vitrine_small_plate_stone_iconic.json)",
+         "ghost_form": "file(vitrine_small_plate_stone_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       },
@@ -43,7 +43,7 @@
          }
       },
       "stonehearth:appeal": {
-         "appeal": 12
+         "appeal": 18
       },
       "stonehearth:item_quality": {
          "variable_quality": true
