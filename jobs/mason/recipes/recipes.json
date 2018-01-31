@@ -14,6 +14,16 @@
           },
           "vitrine_small_table_stone" : {
              "recipe" : "file(vitrine_small_table_stone.json)"
+          },
+
+          "vitrine_medium_box_stone" : {
+             "recipe" : "file(vitrine_medium_box_stone.json)"
+          },
+          "vitrine_medium_plate_stone" : {
+             "recipe" : "file(vitrine_medium_plate_stone.json)"
+          },
+          "vitrine_medium_table_stone" : {
+             "recipe" : "file(vitrine_medium_table_stone.json)"
           }
         }
      }

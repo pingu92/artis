@@ -48,7 +48,7 @@
          "description": "i18n(artis:entities.construction.vitrine_small_plate_stone_ghost.description)",
          "icon": "file(vitrine_small_plate_stone.png)",
          "category": "window",
-         "material_tags": "clay portal crafted window stockpile_portal"
+         "material_tags": "stone portal crafted window stockpile_portal"
       }
    }
 }

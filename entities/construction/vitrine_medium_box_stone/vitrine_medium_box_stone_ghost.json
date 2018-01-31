@@ -10,13 +10,13 @@
 
       "render_info": {
          "scale": 0.1,
-         "animation_table": "file(/data/rigs/entities/containers/vitrine_small_box/vitrine_small_box.json)"
+         "animation_table": "file(/data/rigs/entities/containers/vitrine_medium_box/vitrine_medium_box.json)"
       },
 
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_small_box_stone.qb)"
+               "file(vitrine_medium_box_stone.qb)"
             ]
          }
       },
@@ -29,24 +29,24 @@
             "top": 1
          },
          "bounds": {
-            "min": { "x": -1, "y": 0 },
-            "max": { "x": 1, "y": 4 }
+            "min": { "x": -2, "y": 0 },
+            "max": { "x": 2, "y": 4 }
          }
       },
       "stonehearth:portal": {
          "cutter": [
             {
-               "min": { "x": -1, "y": 0 },
-               "max": { "x": 1, "y": 4 }
+               "min": { "x": -2, "y": 0 },
+               "max": { "x": 2, "y": 4 }
             }
          ]
       }
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(artis:entities.construction.vitrine_small_box_stone_ghost.display_name)",
-         "description": "i18n(artis:entities.construction.vitrine_small_box_stone_ghost.description)",
-         "icon": "file(vitrine_small_box_stone.png)",
+         "display_name": "i18n(artis:entities.construction.vitrine_medium_box_stone_ghost.display_name)",
+         "description": "i18n(artis:entities.construction.vitrine_medium_box_stone_ghost.description)",
+         "icon": "file(vitrine_medium_box_stone.png)",
          "category": "window",
          "material_tags": "stone portal crafted window stockpile_portal"
       }
