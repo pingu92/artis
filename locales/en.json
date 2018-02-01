@@ -88,6 +88,22 @@
 		      "description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
 		      "flavor" : "A good crafter needs more space."
 		    },
+
+				"vitrine_large_box_stone_recipe" : {
+		      "recipe_name" : "Large stone shop window with box",
+		      "description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+		      "flavor" : "The elite under the shop windows."
+		    },
+				"vitrine_large_plate_stone_recipe" : {
+		      "recipe_name" : "Large stone shop window with plate",
+		      "description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+		      "flavor" : "The elite under the shop windows."
+		    },
+				"vitrine_large_table_stone_recipe" : {
+		      "recipe_name" : "Large stone shop window with table",
+		      "description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+		      "flavor" : "The elite under the shop windows."
+		    }
 			}
 		}
 	},
@@ -153,6 +169,18 @@
 				"description" : "Storages up to 18 units."
 			},
 			"vitrine_large_table_wood_ghost" : {
+				"display_name" : "Large window with table",
+				"description" : "Storages up to 18 units."
+			},
+			"vitrine_large_box_stone_ghost" : {
+				"display_name" : "Large window with box",
+				"description" : "Storages up to 18 units."
+			},
+			"vitrine_large_plate_stone_ghost" : {
+				"display_name" : "Large window with plate",
+				"description" : "Storages up to 18 units."
+			},
+			"vitrine_large_table_stone_ghost" : {
 				"display_name" : "Large window with table",
 				"description" : "Storages up to 18 units."
 			}
