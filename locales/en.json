@@ -105,82 +105,68 @@
 		      "flavor" : "The elite under the shop windows."
 		    }
 			}
+		},
+		"carpenter": {
+			"recipes" : {
+				"shop_name" : "Workshop Decorations",
+
+				"vitrine_small_box_clay_red_recipe" : {
+					"recipe_name" : "Small red clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_plate_clay_red_recipe" : {
+					"recipe_name" : "Small red clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_table_clay_red_recipe" : {
+					"recipe_name" : "Small red clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				}
+
+			}
 		}
 	},
 
 	"entities" : {
 		"construction" : {
-			"vitrine_small_box_wood_ghost" : {
+			"vitrine_small_box_ghost" : {
 				"display_name" : "Small window with box",
 				"description" : "Storages up to 6 units."
 			},
-			"vitrine_small_plate_wood_ghost" : {
+			"vitrine_small_plate_ghost" : {
 				"display_name" : "Small window with plate",
 				"description" : "Storages up to 6 units."
 			},
-			"vitrine_small_table_wood_ghost" : {
-				"display_name" : "Small window with table",
-				"description" : "Storages up to 6 units."
-			},
-			"vitrine_small_box_stone_ghost" : {
-				"display_name" : "Small window with box",
-				"description" : "Storages up to 6 units."
-			},
-			"vitrine_small_plate_stone_ghost" : {
-				"display_name" : "Small window with plate",
-				"description" : "Storages up to 6 units."
-			},
-			"vitrine_small_table_stone_ghost" : {
+			"vitrine_small_table_ghost" : {
 				"display_name" : "Small window with table",
 				"description" : "Storages up to 6 units."
 			},
 
-			"vitrine_medium_box_wood_ghost" : {
+			"vitrine_medium_box_ghost" : {
 				"display_name" : "Medium window with box",
 				"description" : "Storages up to 12 units."
 			},
-			"vitrine_medium_plate_wood_ghost" : {
+			"vitrine_medium_plate_ghost" : {
 				"display_name" : "Medium window with plate",
 				"description" : "Storages up to 12 units."
 			},
-			"vitrine_medium_table_wood_ghost" : {
-				"display_name" : "Medium window with table",
-				"description" : "Storages up to 12 units."
-			},
-			"vitrine_medium_box_stone_ghost" : {
-				"display_name" : "Medium window with box",
-				"description" : "Storages up to 12 units."
-			},
-			"vitrine_medium_plate_stone_ghost" : {
-				"display_name" : "Medium window with plate",
-				"description" : "Storages up to 12 units."
-			},
-			"vitrine_medium_table_stone_ghost" : {
+			"vitrine_medium_table_ghost" : {
 				"display_name" : "Medium window with table",
 				"description" : "Storages up to 12 units."
 			},
 
-			"vitrine_large_box_wood_ghost" : {
+			"vitrine_large_box_ghost" : {
 				"display_name" : "Large window with box",
 				"description" : "Storages up to 18 units."
 			},
-			"vitrine_large_plate_wood_ghost" : {
+			"vitrine_large_plate_ghost" : {
 				"display_name" : "Large window with plate",
 				"description" : "Storages up to 18 units."
 			},
-			"vitrine_large_table_wood_ghost" : {
-				"display_name" : "Large window with table",
-				"description" : "Storages up to 18 units."
-			},
-			"vitrine_large_box_stone_ghost" : {
-				"display_name" : "Large window with box",
-				"description" : "Storages up to 18 units."
-			},
-			"vitrine_large_plate_stone_ghost" : {
-				"display_name" : "Large window with plate",
-				"description" : "Storages up to 18 units."
-			},
-			"vitrine_large_table_stone_ghost" : {
+			"vitrine_large_table_ghost" : {
 				"display_name" : "Large window with table",
 				"description" : "Storages up to 18 units."
 			}
