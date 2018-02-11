@@ -1,11 +1,11 @@
 {
    "type": "entity",
-   "mixins": "file(vitrine_small_plate_clay_red_ghost.json)",
+   "mixins": "file(vitrine_small_box_clay_red_ghost.json)",
    "components": {
 
       "stonehearth:entity_forms": {
-         "iconic_form": "file(vitrine_small_plate_clay_red_iconic.json)",
-         "ghost_form": "file(vitrine_small_plate_clay_red_ghost.json)",
+         "iconic_form": "file(vitrine_small_box_clay_red_iconic.json)",
+         "ghost_form": "file(vitrine_small_box_clay_red_ghost.json)",
          "placeable_on_walls": true,
          "hide_placement_ui": true
       },
@@ -27,7 +27,7 @@
       },
 
       "effect_list": {
-         "default": "file(/data/rigs/entities/containers/vitrine_small_plate/effects/idle.json)"
+         "default": "file(/data/rigs/entities/containers/vitrine_small_box/effects/idle.json)"
       }
    },
    "entity_data": {

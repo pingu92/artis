@@ -13,7 +13,9 @@
     "construction:vitrine_small_box:stone" : "file(entities/construction/vitrine_small_box_stone)",
     "construction:vitrine_small_plate:stone" : "file(entities/construction/vitrine_small_plate_stone)",
     "construction:vitrine_small_table:stone" : "file(entities/construction/vitrine_small_table_stone)",
+    "construction:vitrine_small_box:clay_red" : "file(entities/construction/vitrine_small_box_clay_red)",
     "construction:vitrine_small_plate:clay_red" : "file(entities/construction/vitrine_small_plate_clay_red)",
+    "construction:vitrine_small_table:clay_red" : "file(entities/construction/vitrine_small_table_clay_red)",
 
     "construction:vitrine_medium_box:wood" : "file(entities/construction/vitrine_medium_box_wood)",
     "construction:vitrine_medium_plate:wood" : "file(entities/construction/vitrine_medium_plate_wood)",
@@ -31,7 +33,8 @@
   },
   "mixintos" : {
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
-    "/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)"
+    "/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)",
+    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
   },
   "controllers" : {
 

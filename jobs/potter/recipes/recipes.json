@@ -1,0 +1,21 @@
+{
+   "craftable_recipes" : {
+
+     "shop" : {
+        "ordinal": 15,
+        "name": "i18n(artis:jobs.potter.recipes.shop_name)",
+
+        "recipes" : {
+          "vitrine_small_box_clay_red" : {
+             "recipe" : "file(vitrine_small_box_clay_red.json)"
+          },
+          "vitrine_small_plate_clay_red" : {
+             "recipe" : "file(vitrine_small_plate_clay_red.json)"
+          },
+          "vitrine_small_table_clay_red" : {
+             "recipe" : "file(vitrine_small_table_clay_red.json)"
+          }
+        }
+     }
+   }
+}
