@@ -11,7 +11,11 @@
 	"ingredients" : [
 		{
 			"material": "clay resource",
-			"count": 4
+			"count": 3
+		},
+		{
+			"material": "wood resource",
+			"count": 1
 		}
 	],
 	"produces" : [
