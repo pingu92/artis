@@ -1,10 +1,12 @@
 {
-"info" : {
-   "name" : "artis",
-   "version" : 3
-  },
+	"info" : {
+		"name" : "Artis",
+		"namespace" : "artis",
+		"version" : 3,
+		"steam_file_id" : "1367159219"
+	},
 
-  "default_locale" : "en",
+	"default_locale" : "en",
 
   "aliases" : {
     "construction:vitrine_small_box:wood" : "file(entities/construction/vitrine_small_box_wood)",
@@ -40,4 +42,5 @@
   "controllers" : {
 
   }
+
 }
