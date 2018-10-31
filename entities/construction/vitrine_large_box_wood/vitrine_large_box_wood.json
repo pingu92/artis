@@ -1,13 +1,14 @@
 {
    "type": "entity",
    "mixins": "file(vitrine_large_box_wood_ghost.json)",
-   "components": {
 
+   "components": {
       "stonehearth:entity_forms": {
          "iconic_form": "file(vitrine_large_box_wood_iconic.json)",
          "ghost_form": "file(vitrine_large_box_wood_ghost.json)",
          "placeable_on_walls": true,
-         "hide_placement_ui": true
+         "placeable_on_ground": true,
+         "hide_placement_ui": false
       },
 
       "region_collision_shape": {
