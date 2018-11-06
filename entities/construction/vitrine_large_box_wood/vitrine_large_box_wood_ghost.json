@@ -5,7 +5,8 @@
       "mob": {
          "align_to_grid": [
             "x"
-         ]
+         ],
+         "mob_collision_type": "clutter"
       },
 
       "render_info": {
