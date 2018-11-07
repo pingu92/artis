@@ -191,7 +191,7 @@
 			},
 
 			"vitrine_large_box_ghost" : {
-				"display_name" : "Large window with box",
+				"display_name" : "Large window with box (TEST)",
 				"description" : "Storages up to 18 units."
 			},
 			"vitrine_large_plate_ghost" : {

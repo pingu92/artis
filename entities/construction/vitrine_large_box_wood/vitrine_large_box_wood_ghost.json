@@ -5,8 +5,7 @@
       "mob": {
          "align_to_grid": [
             "x"
-         ],
-         "mob_collision_type": "clutter"
+         ]
       },
 
       "render_info": {
@@ -22,7 +21,6 @@
          }
       },
       "stonehearth:fixture": {
-        "valign": "bottom",
          "cursor": "stonehearth:cursors:create_window",
          "margin": {
             "left": 0,
