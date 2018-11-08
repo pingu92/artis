@@ -16,7 +16,8 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_large_box_wood.qb)"
+              "file(../__vitrine/vitrine_large_wood.qb)",
+              "file(../__plates/large_box_wood.qb)"
             ]
          }
       },
