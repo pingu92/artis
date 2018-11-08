@@ -21,13 +21,6 @@
          }
       },
       "stonehearth:fixture": {
-        "valign": "bottom",
-         "cursor": "stonehearth:cursors:create_window",
-         "margin": {
-            "left": 0,
-            "right": 0,
-            "top": 1
-         },
          "bounds": {
             "min": { "x": -2, "y": 0 },
             "max": { "x": 2, "y": 4 }
