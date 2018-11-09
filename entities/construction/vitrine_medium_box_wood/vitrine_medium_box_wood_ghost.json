@@ -16,7 +16,8 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_medium_box_wood.qb)"
+              "file(../__vitrine/vitrine_medium_wood.qb)",
+              "file(../__plates/medium_box_wood.qb)"
             ]
          }
       },

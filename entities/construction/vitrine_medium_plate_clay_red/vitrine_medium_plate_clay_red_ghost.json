@@ -16,7 +16,8 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_medium_plate_clay_red.qb)"
+              "file(../__vitrine/vitrine_medium_clay_red.qb)",
+              "file(../__plates/medium_plate_wood.qb)"
             ]
          }
       },

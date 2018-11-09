@@ -16,7 +16,8 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_small_box_clay_red.qb)"
+              "file(../__vitrine/vitrine_small_clay_red.qb)",
+              "file(../__plates/small_box_wood.qb)"
             ]
          }
       },
