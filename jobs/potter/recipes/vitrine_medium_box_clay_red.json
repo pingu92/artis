@@ -1,0 +1,26 @@
+{
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(artis:jobs.potter.recipes.vitrine_medium_box_clay_red_recipe.recipe_name)",
+	"description" : "i18n(artis:jobs.potter.recipes.vitrine_medium_box_clay_red_recipe.description)",
+	"flavor" : "i18n(artis:jobs.potter.recipes.vitrine_medium_box_clay_red_recipe.flavor)",
+	"portrait" : "/artis/entities/construction/vitrine_medium_box_clay_red/vitrine_medium_box_clay_red.png",
+	"level_requirement" : 3,
+	"workshop" : "stonehearth:potter:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"material": "clay resource",
+			"count": 4
+		},
+		{
+			"material": "wood resource",
+			"count": 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "artis:construction:vitrine_medium_box:clay_red"
+		}
+	]
+}

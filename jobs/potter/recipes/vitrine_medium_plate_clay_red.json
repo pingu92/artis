@@ -5,7 +5,7 @@
 	"description" : "i18n(artis:jobs.potter.recipes.vitrine_medium_plate_clay_red_recipe.description)",
 	"flavor" : "i18n(artis:jobs.potter.recipes.vitrine_medium_plate_clay_red_recipe.flavor)",
 	"portrait" : "/artis/entities/construction/vitrine_medium_plate_clay_red/vitrine_medium_plate_clay_red.png",
-	"level_requirement" : 2,
+	"level_requirement" : 3,
 	"workshop" : "stonehearth:potter:workbench",
 	"manual_unlock": false,
 	"ingredients" : [
