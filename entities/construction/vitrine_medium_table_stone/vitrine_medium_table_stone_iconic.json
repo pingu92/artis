@@ -5,7 +5,8 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(vitrine_medium_table_stone_iconic.qb)"
+              "file(../__vitrine/iconic_vitrine_stone_medium.qb)",
+              "file(../__plates/iconic_table_wood.qb)"
             ]
          }
       },
