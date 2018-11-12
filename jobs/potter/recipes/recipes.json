@@ -26,6 +26,18 @@
 
           "vitrine_medium_table_clay_red" : {
              "recipe" : "file(vitrine_medium_table_clay_red.json)"
+          },
+
+          "vitrine_large_box_clay_red" : {
+             "recipe" : "file(vitrine_large_box_clay_red.json)"
+          },
+
+          "vitrine_large_plate_clay_red" : {
+             "recipe" : "file(vitrine_large_plate_clay_red.json)"
+          },
+
+          "vitrine_large_table_clay_red" : {
+             "recipe" : "file(vitrine_large_table_clay_red.json)"
           }
         }
      }

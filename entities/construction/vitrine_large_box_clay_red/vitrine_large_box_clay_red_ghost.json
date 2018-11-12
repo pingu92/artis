@@ -1,0 +1,48 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "type": "entity",
+   "components": {
+      "mob": {
+         "align_to_grid": [
+            "x"
+         ]
+      },
+
+      "render_info": {
+         "scale": 0.1,
+         "animation_table": "file(/data/rigs/entities/containers/vitrine_large_box/vitrine_large_box.json)"
+      },
+
+      "model_variants": {
+         "default": {
+            "models": [
+              "file(../__vitrine/vitrine_large_clay_red.qb)",
+             "file(../__plates/large_box_wood.qb)"
+            ]
+         }
+      },
+      "stonehearth:fixture": {
+         "bounds": {
+            "min": { "x": -3.5, "y": 0 },
+            "max": { "x": 3.5, "y": 4 }
+         }
+      },
+      "stonehearth:portal": {
+         "cutter": [
+            {
+               "min": { "x": -3, "y": 0 },
+               "max": { "x": 3, "y": 4 }
+            }
+         ]
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(artis:entities.construction.vitrine_large_box_ghost.display_name)",
+         "description": "i18n(artis:entities.construction.vitrine_large_box_ghost.description)",
+         "icon": "file(vitrine_large_box_clay_red.png)",
+         "category": "window",
+         "material_tags": "clay portal crafted window stockpile_portal"
+      }
+   }
+}
