@@ -3,7 +3,7 @@
 
      "shop" : {
         "ordinal": 15,
-        "name": "i18n(artis:jobs.potter.recipes.shop_name)",
+        "name": "i18n(bazaar:jobs.potter.recipes.shop_name)",
 
         "recipes" : {
 

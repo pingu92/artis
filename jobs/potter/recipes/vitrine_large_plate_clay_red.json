@@ -1,10 +1,10 @@
 {
 	"type" : "recipe",
 	"work_units" : 7,
-	"recipe_name" : "i18n(artis:jobs.potter.recipes.vitrine_large_plate_clay_red_recipe.recipe_name)",
-	"description" : "i18n(artis:jobs.potter.recipes.vitrine_large_plate_clay_red_recipe.description)",
-	"flavor" : "i18n(artis:jobs.potter.recipes.vitrine_large_plate_clay_red_recipe.flavor)",
-	"portrait" : "/artis/entities/construction/vitrine_large_plate_clay_red/vitrine_large_plate_clay_red.png",
+	"recipe_name" : "i18n(bazaar:jobs.potter.recipes.vitrine_large_plate_clay_red_recipe.recipe_name)",
+	"description" : "i18n(bazaar:jobs.potter.recipes.vitrine_large_plate_clay_red_recipe.description)",
+	"flavor" : "i18n(bazaar:jobs.potter.recipes.vitrine_large_plate_clay_red_recipe.flavor)",
+	"portrait" : "/bazaar/entities/construction/vitrine_large_plate_clay_red/vitrine_large_plate_clay_red.png",
 	"level_requirement" : 4,
 	"workshop" : "stonehearth:potter:workbench",
 	"manual_unlock": false,
@@ -20,7 +20,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "artis:construction:vitrine_large_plate:clay_red"
+			"item" : "bazaar:construction:vitrine_large_plate:clay_red"
 		}
 	]
 }

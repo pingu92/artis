@@ -38,8 +38,8 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(artis:entities.construction.vitrine_small_box_ghost.display_name)",
-         "description": "i18n(artis:entities.construction.vitrine_small_box_ghost.description)",
+         "display_name": "i18n(bazaar:entities.construction.vitrine_small_box_ghost.display_name)",
+         "description": "i18n(bazaar:entities.construction.vitrine_small_box_ghost.description)",
          "icon": "file(vitrine_small_box_clay_green.png)",
          "category": "window",
          "material_tags": "clay portal crafted window stockpile_portal"

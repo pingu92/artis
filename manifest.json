@@ -1,7 +1,7 @@
 {
 	"info" : {
-		"name" : "Artis",
-		"namespace" : "artis",
+		"name" : "Bazaar",
+		"namespace" : "bazaar",
 		"version" : 3,
 		"steam_file_id" : "1367159219"
 	},

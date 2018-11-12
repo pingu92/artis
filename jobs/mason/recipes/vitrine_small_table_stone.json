@@ -1,10 +1,10 @@
 {
 	"type" : "recipe",
 	"work_units" : 3,
-	"recipe_name" : "i18n(artis:jobs.mason.recipes.vitrine_small_table_stone_recipe.recipe_name)",
-	"description" : "i18n(artis:jobs.mason.recipes.vitrine_small_table_stone_recipe.description)",
-	"flavor" : "i18n(artis:jobs.mason.recipes.vitrine_small_table_stone_recipe.flavor)",
-	"portrait" : "/artis/entities/construction/vitrine_small_table_stone/vitrine_small_table_stone.png",
+	"recipe_name" : "i18n(bazaar:jobs.mason.recipes.vitrine_small_table_stone_recipe.recipe_name)",
+	"description" : "i18n(bazaar:jobs.mason.recipes.vitrine_small_table_stone_recipe.description)",
+	"flavor" : "i18n(bazaar:jobs.mason.recipes.vitrine_small_table_stone_recipe.flavor)",
+	"portrait" : "/bazaar/entities/construction/vitrine_small_table_stone/vitrine_small_table_stone.png",
 	"level_requirement" : 2,
 	"workshop" : "stonehearth:mason:workbench",
 	"manual_unlock": false,
@@ -20,7 +20,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "artis:construction:vitrine_small_table:stone"
+			"item" : "bazaar:construction:vitrine_small_table:stone"
 		}
 	]
 }
