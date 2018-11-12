@@ -110,6 +110,104 @@
 			"recipes" : {
 				"shop_name" : "Workshop Decorations",
 
+				"vitrine_small_box_clay_blue_recipe" : {
+					"recipe_name" : "Small blue clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_plate_clay_blue_recipe" : {
+					"recipe_name" : "Small blue clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_table_clay_blue_recipe" : {
+					"recipe_name" : "Small blue clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+
+				"vitrine_medium_box_clay_blue_recipe" : {
+					"recipe_name" : "Medium blue clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
+					"flavor" : "A good crafter needs more space."
+				},
+				"vitrine_medium_plate_clay_blue_recipe" : {
+					"recipe_name" : "Medium blue clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
+					"flavor" : "A good crafter needs more space."
+				},
+				"vitrine_medium_table_clay_blue_recipe" : {
+					"recipe_name" : "Medium blue clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
+					"flavor" : "A good crafter needs more space."
+				},
+
+				"vitrine_large_box_clay_blue_recipe" : {
+					"recipe_name" : "Large blue clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+					"flavor" : "The elite under the shop windows."
+				},
+				"vitrine_large_plate_clay_blue_recipe" : {
+					"recipe_name" : "Large blue clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+					"flavor" : "The elite under the shop windows."
+				},
+				"vitrine_large_table_clay_blue_recipe" : {
+					"recipe_name" : "Large blue clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+					"flavor" : "The elite under the shop windows."
+				},
+
+
+				"vitrine_small_box_clay_green_recipe" : {
+					"recipe_name" : "Small green clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_plate_clay_green_recipe" : {
+					"recipe_name" : "Small green clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+				"vitrine_small_table_clay_green_recipe" : {
+					"recipe_name" : "Small green clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
+					"flavor" : "Nice for every little shop."
+				},
+
+				"vitrine_medium_box_clay_green_recipe" : {
+					"recipe_name" : "Medium green clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
+					"flavor" : "A good crafter needs more space."
+				},
+				"vitrine_medium_plate_clay_green_recipe" : {
+					"recipe_name" : "Medium green clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
+					"flavor" : "A good crafter needs more space."
+				},
+				"vitrine_medium_table_clay_green_recipe" : {
+					"recipe_name" : "Medium green clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 12 reccources.",
+					"flavor" : "A good crafter needs more space."
+				},
+
+				"vitrine_large_box_clay_green_recipe" : {
+					"recipe_name" : "Large green clay shop window with box",
+					"description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+					"flavor" : "The elite under the shop windows."
+				},
+				"vitrine_large_plate_clay_green_recipe" : {
+					"recipe_name" : "Large green clay shop window with plate",
+					"description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+					"flavor" : "The elite under the shop windows."
+				},
+				"vitrine_large_table_clay_green_recipe" : {
+					"recipe_name" : "Large green clay shop window with table",
+					"description" : "A decorative storage window for workshops. Contains up to 18 reccources.",
+					"flavor" : "The elite under the shop windows."
+				},
+
+
 				"vitrine_small_box_clay_red_recipe" : {
 					"recipe_name" : "Small red clay shop window with box",
 					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",

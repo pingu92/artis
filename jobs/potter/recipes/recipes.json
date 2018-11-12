@@ -6,6 +6,27 @@
         "name": "i18n(artis:jobs.potter.recipes.shop_name)",
 
         "recipes" : {
+
+          "vitrine_small_box_clay_blue" : {
+             "recipe" : "file(vitrine_small_box_clay_blue.json)"
+          },
+          "vitrine_small_plate_clay_blue" : {
+             "recipe" : "file(vitrine_small_plate_clay_blue.json)"
+          },
+          "vitrine_small_table_clay_blue" : {
+             "recipe" : "file(vitrine_small_table_clay_blue.json)"
+          },
+
+          "vitrine_small_box_clay_green" : {
+             "recipe" : "file(vitrine_small_box_clay_green.json)"
+          },
+          "vitrine_small_plate_clay_green" : {
+             "recipe" : "file(vitrine_small_plate_clay_green.json)"
+          },
+          "vitrine_small_table_clay_green" : {
+             "recipe" : "file(vitrine_small_table_clay_green.json)"
+          },
+
           "vitrine_small_box_clay_red" : {
              "recipe" : "file(vitrine_small_box_clay_red.json)"
           },
@@ -14,6 +35,30 @@
           },
           "vitrine_small_table_clay_red" : {
              "recipe" : "file(vitrine_small_table_clay_red.json)"
+          },
+
+          "vitrine_medium_box_clay_blue" : {
+             "recipe" : "file(vitrine_medium_box_clay_blue.json)"
+          },
+
+          "vitrine_medium_plate_clay_blue" : {
+             "recipe" : "file(vitrine_medium_plate_clay_blue.json)"
+          },
+
+          "vitrine_medium_table_clay_blue" : {
+             "recipe" : "file(vitrine_medium_table_clay_blue.json)"
+          },
+
+          "vitrine_medium_box_clay_green" : {
+             "recipe" : "file(vitrine_medium_box_clay_green.json)"
+          },
+
+          "vitrine_medium_plate_clay_green" : {
+             "recipe" : "file(vitrine_medium_plate_clay_green.json)"
+          },
+
+          "vitrine_medium_table_clay_greend" : {
+             "recipe" : "file(vitrine_medium_table_clay_green.json)"
           },
 
           "vitrine_medium_box_clay_red" : {
@@ -26,6 +71,30 @@
 
           "vitrine_medium_table_clay_red" : {
              "recipe" : "file(vitrine_medium_table_clay_red.json)"
+          },
+
+          "vitrine_large_box_clay_blue" : {
+             "recipe" : "file(vitrine_large_box_clay_blue.json)"
+          },
+
+          "vitrine_large_plate_clay_blue" : {
+             "recipe" : "file(vitrine_large_plate_clay_blue.json)"
+          },
+
+          "vitrine_large_table_clay_blue" : {
+             "recipe" : "file(vitrine_large_table_clay_blue.json)"
+          },
+
+          "vitrine_large_box_clay_green" : {
+             "recipe" : "file(vitrine_large_box_clay_green.json)"
+          },
+
+          "vitrine_large_plate_clay_green" : {
+             "recipe" : "file(vitrine_large_plate_clay_green.json)"
+          },
+
+          "vitrine_large_table_clay_green" : {
+             "recipe" : "file(vitrine_large_table_clay_green.json)"
           },
 
           "vitrine_large_box_clay_red" : {

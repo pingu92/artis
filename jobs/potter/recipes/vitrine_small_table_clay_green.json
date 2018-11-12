@@ -1,0 +1,26 @@
+{
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(artis:jobs.potter.recipes.vitrine_small_table_clay_green_recipe.recipe_name)",
+	"description" : "i18n(artis:jobs.potter.recipes.vitrine_small_table_clay_green_recipe.description)",
+	"flavor" : "i18n(artis:jobs.potter.recipes.vitrine_small_table_clay_green_recipe.flavor)",
+	"portrait" : "/artis/entities/construction/vitrine_small_table_clay_green/vitrine_small_table_clay_green.png",
+	"level_requirement" : 2,
+	"workshop" : "stonehearth:potter:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"material": "clay resource",
+			"count": 3
+		},
+		{
+			"material": "wood resource",
+			"count": 1
+		}
+	],
+	"produces" : [
+		{
+			"item" : "artis:construction:vitrine_small_table:clay_green"
+		}
+	]
+}
