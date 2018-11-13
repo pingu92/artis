@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(pantry_ghost.json)",
+   "mixins": "file(pantry_wood_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(pantry_iconic.json)",
-         "ghost_form": "file(pantry_ghost.json)",
+         "iconic_form": "file(pantry_wood_iconic.json)",
+         "ghost_form": "file(pantry_wood_ghost.json)",
          "placeable_on_ground": true
       },
 
