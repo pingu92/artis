@@ -4,6 +4,12 @@
 			"recipes" : {
 				"shop_name" : "Workshop Decorations",
 
+				"pantry_wood_recipe" : {
+					"recipe_name" : "Wooden pantry",
+					"description" : "A large pantry for up to 12 ressources.",
+					"flavor" : "Only for organized workshops."
+				},
+
 				"vitrine_small_box_wood_recipe" : {
 					"recipe_name" : "Small wooden shop window with box",
 					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
@@ -261,6 +267,14 @@
 	},
 
 	"entities" : {
+
+		"containers" : {
+			"pantry_wood" : {
+				"display_name" : "Wooden pantry",
+				"description" : "Storages up to 12 units."
+			}
+		},
+
 		"construction" : {
 			"vitrine_small_box_ghost" : {
 				"display_name" : "Small window with box",
