@@ -55,7 +55,9 @@
 		"construction:vitrine_large_table:clay_green" : "file(entities/construction/vitrine_large_table_clay_green)",
 		"construction:vitrine_large_box:clay_red" : "file(entities/construction/vitrine_large_box_clay_red)",
 		"construction:vitrine_large_plate:clay_red" : "file(entities/construction/vitrine_large_plate_clay_red)",
-		"construction:vitrine_large_table:clay_red" : "file(entities/construction/vitrine_large_table_clay_red)"
+		"construction:vitrine_large_table:clay_red" : "file(entities/construction/vitrine_large_table_clay_red)",
+
+		"container:pantry:wood" : "file(entities/container/pantry_wood)",
   },
   "mixintos" : {
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
