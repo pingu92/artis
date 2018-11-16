@@ -32,6 +32,10 @@
           },
           "vitrine_large_table_wood" : {
              "recipe" : "file(vitrine_large_table_wood.json)"
+          },
+
+          "pantry_wood" : {
+             "recipe" : "file(pantry_wood.json)"
           }
         }
      }

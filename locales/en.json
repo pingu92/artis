@@ -269,7 +269,7 @@
 	"entities" : {
 
 		"containers" : {
-			"pantry_wood" : {
+			"pantry_wood_ghost" : {
 				"display_name" : "Wooden pantry",
 				"description" : "Storages up to 12 units."
 			}
