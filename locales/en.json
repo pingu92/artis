@@ -10,6 +10,12 @@
 					"flavor" : "Only for organized workshops."
 				},
 
+				"input_pantry_wood_recipe" : {
+					"recipe_name" : "Wooden supply pantry",
+					"description" : "A supply pantry for 12 ressources.",
+					"flavor" : "…for quicker crafting."
+				},
+
 				"vitrine_small_box_wood_recipe" : {
 					"recipe_name" : "Small wooden shop window with box",
 					"description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
@@ -272,6 +278,10 @@
 			"pantry_wood_ghost" : {
 				"display_name" : "Wooden pantry",
 				"description" : "Storages up to 12 units."
+			},
+			"input_pantry_wood_ghost" : {
+				"display_name" : "Wooden supply pantry",
+				"description" : "Supply pantry for 12 units."
 			}
 		},
 

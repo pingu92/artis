@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(pantry_wood_iconic.qb)"
+					"file(input_pantry_wood_iconic.qb)"
 				]
 			}
 		},

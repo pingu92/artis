@@ -36,6 +36,10 @@
 
           "pantry_wood" : {
              "recipe" : "file(pantry_wood.json)"
+          },
+
+          "input_pantry_wood" : {
+             "recipe" : "file(input_pantry_wood.json)"
           }
         }
      }
