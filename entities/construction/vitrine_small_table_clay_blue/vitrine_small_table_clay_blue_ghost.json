@@ -42,7 +42,7 @@
          "description": "i18n(bazaar:entities.construction.vitrine_small_table_ghost.description)",
          "icon": "file(vitrine_small_table_clay_blue.png)",
          "category": "window",
-         "material_tags": "clay portal crafted window stockpile_portal"
+         "material_tags": "clay portal crafted window stockpile_portal bazaar"
       }
    }
 }

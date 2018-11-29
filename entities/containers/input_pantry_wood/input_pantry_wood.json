@@ -27,7 +27,8 @@
       "type": "input_crate",
       "capacity": 12,
       "render_contents": true,
-      "filter_list": "stonehearth:ui:input_box:filters"
+      "filter_list": "stonehearth:ui:input_box:filters",
+      "is_single_filter": true
     },
 
     "effect_list": {

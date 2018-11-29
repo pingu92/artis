@@ -26,7 +26,7 @@
 				"description": "i18n(bazaar:entities.containers.input_pantry_wood_ghost.description)",
 				"icon": "file(input_pantry_wood.png)",
 				"category": "storage",
-				"material_tags": "wood furniture crafted crate stockpile_furniture"
+				"material_tags": "wood furniture crafted crate stockpile_furniture bazaar"
 		}
 	}
 }
