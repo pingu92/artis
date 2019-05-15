@@ -6,29 +6,11 @@
         "name": "i18n(bazaar:jobs.carpenter.recipes.shop_name)",
 
         "recipes" : {
-          "vitrine_small_box_wood" : {
-             "recipe" : "file(vitrine_small_box_wood.json)"
-          },
-          "vitrine_small_plate_wood" : {
-             "recipe" : "file(vitrine_small_plate_wood.json)"
-          },
           "vitrine_small_table_wood" : {
              "recipe" : "file(vitrine_small_table_wood.json)"
           },
-          "vitrine_medium_box_wood" : {
-             "recipe" : "file(vitrine_medium_box_wood.json)"
-          },
-          "vitrine_medium_plate_wood" : {
-             "recipe" : "file(vitrine_medium_plate_wood.json)"
-          },
           "vitrine_medium_table_wood" : {
              "recipe" : "file(vitrine_medium_table_wood.json)"
-          },
-          "vitrine_large_box_wood" : {
-             "recipe" : "file(vitrine_large_box_wood.json)"
-          },
-          "vitrine_large_plate_wood" : {
-             "recipe" : "file(vitrine_large_plate_wood.json)"
           },
           "vitrine_large_table_wood" : {
              "recipe" : "file(vitrine_large_table_wood.json)"
