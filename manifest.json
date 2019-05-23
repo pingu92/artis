@@ -9,6 +9,9 @@
 	"default_locale" : "en",
 
   "aliases" : {
+
+		"ui:tavern_table:filters" : "file(ui/data/tavern_table_filters.json)",
+
     "construction:vitrine_small_table:wood" : "file(entities/construction/vitrine_small_table_wood)",
     "construction:vitrine_small_table:stone" : "file(entities/construction/vitrine_small_table_stone)",
     "construction:vitrine_small_table:clay_blue" : "file(entities/construction/vitrine_small_table_clay_blue)",
@@ -28,7 +31,9 @@
 		"construction:vitrine_large_table:clay_red" : "file(entities/construction/vitrine_large_table_clay_red)",
 
 		"containers:pantry:wood" : "file(entities/containers/pantry_wood)",
-		"containers:pantry:wood:input" : "file(entities/containers/input_pantry_wood)"
+		"containers:pantry:wood:input" : "file(entities/containers/input_pantry_wood)",
+
+		"furniture:tavern:tavern_table_small" : "file(entities/furniture/tavern_table_small)"
   },
   "mixintos" : {
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",

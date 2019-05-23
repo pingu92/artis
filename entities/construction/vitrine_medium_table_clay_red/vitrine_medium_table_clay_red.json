@@ -11,9 +11,19 @@
          "hide_placement_ui": false
       },
 
-      "mob": {
-         "mob_collision_type": "clutter",
-         "region_origin": { "x": 0, "y": 0, "z": 0.5 }
+      "destination": {
+        "region": [
+          {
+            "min": { "x": -2.7, "y": 0, "z": -1.2 },
+            "max": { "x": 2.7, "y": 1.5, "z": 1.3 }
+          }
+        ],
+        "adjacency_flags": [
+          "back",
+          "front",
+          "left",
+          "right"
+        ]
       },
 
       "region_collision_shape": {
