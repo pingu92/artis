@@ -33,10 +33,11 @@
       },
 
       "stonehearth:storage": {
-        "type": "crate",
+        "type": "input_crate",
         "capacity": 3,
         "render_contents": true,
-        "filter_list": "bazaar:ui:tavern_table:filters"
+        "filter_list": "bazaar:ui:tavern_table:filters",
+        "is_single_filter": true
       },
 
       "effect_list": {
