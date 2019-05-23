@@ -33,7 +33,7 @@
 		"containers:pantry:wood" : "file(entities/containers/pantry_wood)",
 		"containers:pantry:wood:input" : "file(entities/containers/input_pantry_wood)",
 
-		"furniture:tavern:tavern_table_small" : "file(entities/furniture/tavern_table_small)"
+		"furniture:tavern:tavern_small_table" : "file(entities/furniture/tavern_small_table)"
   },
   "mixintos" : {
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",

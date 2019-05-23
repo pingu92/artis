@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(tavern_table_small.qb)"
+               "file(tavern_small_table.qb)"
             ]
          }
       },
@@ -16,9 +16,9 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:entities.furniture.tavern_table_small.tavern_table_small_ghost.display_name)",
-         "description": "i18n(stonehearth:entities.furniture.tavern_table_small.tavern_table_small_ghost.description)",
-         "icon": "file(tavern_table_small.png)",
+         "display_name": "i18n(bazaar:entities.furniture.tavern_small_table_ghost.display_name)",
+         "description": "i18n(bazaar:entities.furniture.tavern_small_table_ghost.description)",
+         "icon": "file(tavern_small_table.png)",
          "category": "furniture",
          "material_tags": ["wood", "furniture", "crafted", "stockpile_furniture"]
       }

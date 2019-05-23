@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(tavern_table_small_ghost.json)",
+   "mixins": "file(tavern_small_table_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(tavern_table_small_iconic.json)",
-         "ghost_form": "file(tavern_table_small_ghost.json)",
+         "iconic_form": "file(tavern_small_table_iconic.json)",
+         "ghost_form": "file(tavern_small_table_ghost.json)",
          "placeable_on_ground": true
       },
 

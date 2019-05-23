@@ -111,17 +111,6 @@
 
 	"entities" : {
 
-		"containers" : {
-			"pantry_wood_ghost" : {
-				"display_name" : "Wooden pantry",
-				"description" : "Storages up to 12 units."
-			},
-			"input_pantry_wood_ghost" : {
-				"display_name" : "Wooden supply pantry",
-				"description" : "Supply pantry for 12 units."
-			}
-		},
-
 		"construction" : {
 			"vitrine_small_table_ghost" : {
 				"display_name" : "Small window with table",
@@ -135,6 +124,25 @@
 				"display_name" : "Large window with table",
 				"description" : "Storages up to 18 units."
 			}
+		},
+
+		"containers" : {
+			"pantry_wood_ghost" : {
+				"display_name" : "Wooden pantry",
+				"description" : "Storages up to 12 units."
+			},
+			"input_pantry_wood_ghost" : {
+				"display_name" : "Wooden supply pantry",
+				"description" : "Supply pantry for 12 units."
+			}
+		},
+
+		"furinture" : {
+			"tavern_small_table_ghost" : {
+				"display_name" : "Table for 4",
+				"description" : "A small tavern table for 4 people"
+			}
 		}
+
 	}
 }
