@@ -10,7 +10,7 @@
 
   "aliases" : {
 
-		"ui:tavern_table:filters" : "file(ui/data/tavern_table_filters.json)",
+		"ui:tavern_small_table:filters" : "file(ui/data/tavern_small_table_filters.json)",
 
     "construction:vitrine_small_table:wood" : "file(entities/construction/vitrine_small_table_wood)",
     "construction:vitrine_small_table:stone" : "file(entities/construction/vitrine_small_table_stone)",
