@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(tavern_small_table_ghost.json)",
+   "mixins": "file(tavern_small_table_wood_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(tavern_small_table_iconic.json)",
-         "ghost_form": "file(tavern_small_table_ghost.json)",
+         "iconic_form": "file(tavern_small_table_wood_iconic.json)",
+         "ghost_form": "file(tavern_small_table_wood_ghost.json)",
          "placeable_on_ground": true
       },
 
@@ -36,12 +36,12 @@
         "type": "input_crate",
         "capacity": 3,
         "render_contents": true,
-        "filter_list": "bazaar:ui:tavern_small_table:filters",
+        "filter_list": "bazaar:ui:tavern_small_table_wood:filters",
         "is_single_filter": true
       },
 
       "effect_list": {
-         "default": "file(/data/rigs/entities/furniture/tavern_small_table/effects/idle.json)"
+         "default": "file(/data/rigs/entities/furniture/tavern_small_table_wood/effects/idle.json)"
       }
 
    },

@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(tavern_small_table_iconic.qb)"
+               "file(tavern_small_table_wood_iconic.qb)"
             ]
          }
       },
