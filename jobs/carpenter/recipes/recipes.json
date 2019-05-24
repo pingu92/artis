@@ -22,6 +22,10 @@
 
           "input_pantry_wood" : {
              "recipe" : "file(input_pantry_wood.json)"
+          },
+
+          "tavern_small_table" : {
+             "recipe" : "file(tavern_small_table.json)"
           }
         }
      }

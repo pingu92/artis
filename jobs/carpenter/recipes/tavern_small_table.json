@@ -1,0 +1,22 @@
+{
+	"type" : "recipe",
+	"work_units" : 5,
+	"recipe_name" : "i18n(bazaar:jobs.carpenter.recipes.tavern_small_table_recipe.recipe_name)",
+	"description" : "i18n(bazaar:jobs.carpenter.recipes.tavern_small_table_recipe.description)",
+	"flavor" : "i18n(bazaar:jobs.carpenter.recipes.tavern_small_table_recipe.flavor)",
+	"portrait" : "/bazaar/entities/furniture/tavern_small_table/tavern_small_table.png",
+	"level_requirement" : 2,
+	"workshop" : "stonehearth:carpenter:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"material": "wood resource",
+			"count" : 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "bazaar:furniture:tavern:tavern_small_table"
+		}
+	]
+}

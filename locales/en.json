@@ -15,6 +15,12 @@
 					"flavor" : "…for quicker crafting."
 				},
 
+				"tavern_small_table_recipe" : {
+					"recipe_name" : "Small Table",
+					"description" : "A small tavern table for 4 people.",
+					"flavor" : "Let's eat something!"
+				},
+
 				"vitrine_small_table_wood_recipe" : {
 		      "recipe_name" : "Small wooden shop window with table",
 		      "description" : "A decorative storage window for workshops. Contains up to 6 reccources.",
