@@ -36,7 +36,7 @@
         "type": "input_crate",
         "capacity": 3,
         "render_contents": true,
-        "filter_list": "stonehearth:ui:input_box:filters",
+        "filter_list": "bazaar:ui:tavern_small_table_wood:filters",
         "is_single_filter": true
       },
 
