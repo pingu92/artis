@@ -2,6 +2,12 @@
    "mixins": "stonehearth:mixins:placed_object",
    "type": "entity",
    "components": {
+
+     "render_info": {
+ 			 "scale": 0.1,
+ 			 "animation_table": "file(/data/rigs/entities/furniture/tavern_small_table_wood/tavern_small_table_wood.json)"
+ 		},
+
       "model_variants": {
          "default": {
             "models": [
