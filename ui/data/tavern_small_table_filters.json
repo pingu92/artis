@@ -1,7 +1,17 @@
 {
    "stockpile": {
-      "cooked_food": {
-         "categories": {}
-      }
+     "cooked_food": {
+        "display_name": "i18n(stonehearth:ui.data.constants.prepared_food_resource_name)",
+        "icon": "/stonehearth/ui/game/modes/zones_mode/stockpile/images/taxonomy/meat.png",
+        "ordinal": 1,
+        "categories": {
+           "prepared_food": {
+              "ordinal": 0.1,
+              "display_name": "i18n(stonehearth:ui.data.constants.prepared_food_resource_name)",
+              "icon": "/stonehearth/ui/game/modes/zones_mode/stockpile/images/taxonomy/meat.png",
+              "filter": "prepared_food"
+           }
+        }
+     }
    }
 }
