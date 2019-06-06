@@ -1,6 +1,5 @@
 {
    "mixins": "stonehearth:mixins:placed_object",
-   "type": "entity",
    "components": {
 
      "render_info": {
