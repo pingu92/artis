@@ -141,13 +141,6 @@
 				"display_name" : "Wooden supply pantry",
 				"description" : "Supply pantry for 12 units."
 			}
-		},
-
-		"furinture" : {
-			"tavern_small_table_ghost" : {
-				"display_name" : "Table for 4",
-				"description" : "A small tavern table for 4 people"
-			}
 		}
 
 	}
