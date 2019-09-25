@@ -9,6 +9,9 @@
 	"default_locale" : "en",
 
   "aliases" : {
+
+		"color_map:awning" : "file(data/materials/color_maps/awning_color_map.json)",
+
     "construction:vitrine_small_table:wood" : "file(entities/construction/vitrine_small_table_wood)",
     "construction:vitrine_small_table:stone" : "file(entities/construction/vitrine_small_table_stone)",
     "construction:vitrine_small_table:clay_blue" : "file(entities/construction/vitrine_small_table_clay_blue)",
@@ -36,7 +39,7 @@
     "/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)",
     "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
   },
-	
+
   "controllers" : {
 
   }

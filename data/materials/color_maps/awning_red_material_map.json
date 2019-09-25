@@ -1,0 +1,11 @@
+{
+   "bazaar:awning:hilight" : {
+      "color" : "#F78484"
+   },
+   "bazaar:awning:midtone" : {
+      "color" : "#CC4D4D"
+   },
+   "bazaar:awning:shadows" : {
+      "color" : "#A72323"
+   }
+}
