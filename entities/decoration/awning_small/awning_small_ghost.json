@@ -1,0 +1,39 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(awning_small.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": 0, "y": -0.5, "z": -0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "allow_vertical_adjacent": true
+      },
+      "render_info": {
+         "scale": 0.1,
+         "color_map": "bazaar:color_map:awning",
+         "material_maps": [
+           {
+             "type": "one_of",
+              [
+                "/bazaar/data/materials/material_maps/awning_blue_material_map.json",
+                "/bazaar/data/materials/material_maps/awning_red_material_map.json"
+              ]
+           }
+         ]
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(stonehearth:entities.decoration.wooden_sign_mason.wooden_sign_mason_ghost.display_name)",
+         "description": "i18n(stonehearth:entities.decoration.wooden_sign_mason.wooden_sign_mason_ghost.description)",
+         "icon": "file(awning_small.png)",
+         "category": "decoration",
+         "material_tags": ["decoration", "crafted", "sign", "stockpile_decoration"]
+      }
+   }
+}
