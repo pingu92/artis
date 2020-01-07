@@ -2,6 +2,11 @@
    "mixins": "stonehearth:mixins:placed_object",
    "type": "entity",
    "components": {
+      "mob": {
+         "align_to_grid": [
+            "x"
+         ]
+      },
 
       "render_info": {
          "scale": 0.1,
@@ -17,8 +22,7 @@
          }
       },
       "stonehearth:fixture": {
-        "valign": "bottom",
-        "bounds": {
+         "bounds": {
             "min": { "x": -3.5, "y": 0 },
             "max": { "x": 3.5, "y": 4 }
          }
@@ -38,7 +42,7 @@
          "description": "i18n(bazaar:entities.construction.vitrine_large_table_ghost.description)",
          "icon": "file(vitrine_large_table_clay_blue.png)",
          "category": "window",
-         "material_tags": ["clay portal", "crafted", "window", "stockpile_portal", "bazaar"]
+         "material_tags": "clay portal crafted window stockpile_portal bazaar"
       }
    }
 }
